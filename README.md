@@ -1,7 +1,7 @@
 
-# Meu nome é Danrllei Miranda
-### Seja-bem vindo(a)!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&section=header&text=Danrllei%20Miranda&fontColor=#fff&fontAlignY=35"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F77CA0&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+DANRLLEI+MIRANDA!;SOU+ESTUDANTE+NA+TRYBE)](https://git.io/typing-svg)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrlleimiranda&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danrlleimiranda&layout=compact&&theme=dracula&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
