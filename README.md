@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D83959&height=250&animation=twinkling&section=header&text=Danrllei%20Miranda&fontColor=F0D0AF&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F77CA0&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%89+DANRLLEI+MIRANDA!;SOU+DESENVOLVEDOR+FULLSTACK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F77CA0&center=true&vCenter=true&width=1000&lines=SOU+DESENVOLVEDOR+FULLSTACK;VEJA+ABAIXO+O+QUE+ESTOU+DESENVOLVENDO)](https://git.io/typing-svg)
 <div>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danrlleimiranda&show_icons=true&theme=dracula" alt="Bruna Silva github stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrlleimiranda&layout=compact&&theme=dracula&size_weight=0.5&count_weight=0.5"/>
