@@ -3,8 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F77CA0&center=true&vCenter=true&width=1000&lines=SOU+DESENVOLVEDOR+FULLSTACK;VEJA+ABAIXO+O+QUE+ESTOU+DESENVOLVENDO)](https://git.io/typing-svg)
 
+
 <br>
- <p> Essas são algumas tecnologias que estou desenvolvendo os meus conhecimentos:</p>
+<p>Atualmente estou trabalhando como desenvolvedor fullstack na plataforma Meu guru.</p> 
+<p>Conheça mais sobre o projeto acessando a plataforma: <a href="https://www.meuguru.com/" target="_blank">Meu Guru</a>.</p>
+ <p> Essas são algumas tecnologias que tenho conhecimento:</p>
 <div style="display:flex text-align: left" align-items="center">
   <h3>Front-end:</h3>
   <img align="left" alt="Dan-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
