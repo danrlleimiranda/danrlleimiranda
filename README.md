@@ -5,7 +5,7 @@
 
 
 <br>
-<p>Atualmente estou trabalhando como desenvolvedor fullstack na plataforma Meu guru.</p> 
+<p>Atualmente estou trabalhando como desenvolvedor fullstack na Meu guru.</p> 
 <p>Conheça mais sobre o projeto acessando a plataforma: <a href="https://www.meuguru.com/" target="_blank">Meu Guru</a>.</p>
  <p> Essas são algumas tecnologias que tenho conhecimento:</p>
 <div style="display:flex text-align: left" align-items="center">
