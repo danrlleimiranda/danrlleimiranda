@@ -1,10 +1,9 @@
 
-## Olá, tudo bem?
-#### Veja um pouco do que estou fazendo.
+# Danrllei Miranda
+#### Tenho 25 anos e sou desenvolvedor fullstack.
 
 <br>
-<p>Atualmente estou trabalhando como desenvolvedor fullstack na Meu guru.</p> 
-<p>Conheça mais sobre o projeto acessando a plataforma: <a href="https://www.meuguru.com/" target="_blank">Meu Guru</a>.</p>
+<p>Conheça mais sobre a plataforma que trabalho acessando: <a href="https://www.meuguru.com/" target="_blank">Meu Guru</a>.</p>
  <p> Essas são algumas tecnologias que tenho conhecimento:</p>
 <div style="display:flex text-align: left" align-items="center">
   <h3>Front-end:</h3>
