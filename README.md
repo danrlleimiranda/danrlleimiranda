@@ -1,6 +1,6 @@
 
 # Danrllei Miranda
-#### Tenho 25 anos e sou desenvolvedor fullstack.
+#### Prazer, tenho 25 anos e sou desenvolvedor fullstack.
 
 <br>
 <p>Conheça mais sobre a plataforma que trabalho acessando: <a href="https://www.meuguru.com/" target="_blank">Meu Guru</a>.</p>
