@@ -1,8 +1,6 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D83959&height=250&animation=twinkling&section=header&text=Danrllei%20Miranda&fontColor=F0D0AF&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F77CA0&center=true&vCenter=true&width=1000&lines=SOU+DESENVOLVEDOR+FULLSTACK;VEJA+ABAIXO+O+QUE+ESTOU+DESENVOLVENDO)](https://git.io/typing-svg)
-
+## Olá, tudo bem?
+#### Veja um pouco do que estou fazendo.
 
 <br>
 <p>Atualmente estou trabalhando como desenvolvedor fullstack na Meu guru.</p> 
@@ -64,5 +62,5 @@
   <a href = "mailto:danmiranda14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danrllei-miranda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D83959&height=150&animation=twinkling&section=footer"/>
+
 
