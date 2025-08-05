@@ -3,7 +3,7 @@
 #### Prazer, tenho 25 anos e sou desenvolvedor fullstack, atualmente estou cursando ciência da computação.
 
 <br>
-<p>Conheça mais sobre a plataforma que trabalho acessando: <a href="https://www.meuguru.com/" target="_blank">Meu Guru</a>.</p>
+<p>Conheça mais sobre a plataforma que trabalho acessando: <a href="https://g4educacao.com" target="_blank">G4 Educação</a>.</p>
  <p> Essas são algumas tecnologias que tenho conhecimento:</p>
 <div style="display:flex text-align: left" align-items="center">
   <h3>Front-end:</h3>
