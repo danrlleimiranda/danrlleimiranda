@@ -1,6 +1,6 @@
 
 # Danrllei Miranda
-#### Prazer, tenho 25 anos e sou desenvolvedor fullstack, atualmente estou cursando ciência da computação.
+#### Prazer, tenho 26 anos e sou desenvolvedor backend.
 
 <br>
 <p>Conheça mais sobre a plataforma que trabalho acessando: <a href="https://g4educacao.com" target="_blank">G4 Educação</a>.</p>
