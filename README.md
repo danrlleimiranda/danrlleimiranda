@@ -51,11 +51,6 @@
 <br>
 <br>
 <hr/>
-<div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danrlleimiranda&show_icons=true&theme=dracula" alt="Bruna Silva github stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrlleimiranda&layout=compact&&theme=dracula&size_weight=0.5&count_weight=0.5"/>
-</div>
-<hr/>
  <p align="left">Sinta-se a vontade para me contatar em qualquer uma das plataformas digitais abaixo:</p>
 <div >
   <a href = "mailto:danmiranda14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
